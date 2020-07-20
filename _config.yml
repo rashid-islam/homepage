@@ -11,9 +11,9 @@ title                    : "Rashidul Islam"
 title_separator          : "-"
 name                     : &name "Rashidul Islam"
 description              : &description "Ph.D. Student, Information Systems Department, University of Maryland, Baltimore County (UMBC)"
-url                      : https://rashid-islam.github.io/homepage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rashid-islam.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rashid-islam/homepage.github.io"
+repository               : "rashid-islam/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
