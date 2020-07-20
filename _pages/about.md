@@ -10,8 +10,8 @@ redirect_from:
 
 # About Me
 * I am a Ph.D. student in the [Information Systems Department](https://informationsystems.umbc.edu/) at [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/), advised by [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/). I am also working as a research assistant in the [Foulds Research Group](http://jfoulds.informationsystems.umbc.edu/research_group.html) - The Latent Lab.
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of Fairness. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing.     
+* I was an intern at MathWorks Inc. I received my Master’s Degree in Electrical Engineering at [University of Dhaka](https://www.du.ac.bd/), supervised by Prof. [Zahid H. Mahmood](https://scholar.google.com/citations?user=gnu1OzUAAAAJ&hl=en).
 
 A data-driven personal website
 ======
