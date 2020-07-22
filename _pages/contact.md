@@ -12,5 +12,4 @@ Department of Information Systems<br>
 University of Maryland, Baltimore County (UMBC)<br>
 1000 Hilltop Circle
 Baltimore, MD 21250
-
 Email: islam.rashidul@umbc.edu
