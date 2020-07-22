@@ -17,7 +17,7 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
-* My paper titled **Scalable collapsed inference for high-dimensional topic models** o scale up topic models to 10,000 topics with a single machine, was accepted at [AACL 2019](ttps://naacl.org/about/index.html)!
+* My paper titled **"Scalable collapsed inference for high-dimensional topic models"** to scale up topic models to 10,000 topics with a single machine, was accepted at [AACL 2019](ttps://naacl.org/about/index.html)!
 * My extended abstact on stochastic topic model was accepted at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2018)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=75264&copyownerid=3228).
 * Joined in the [Foulds Research Group](http://jfoulds.informationsystems.umbc.edu/research_group.html) on Spring 2018 as a graduate research assistant
 
