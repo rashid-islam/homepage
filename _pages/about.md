@@ -17,7 +17,7 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
-* Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4).
+* Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4) and [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf).
 * Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 * Code for calculating our differential fairness metric is now available in the [AI Fairness 360 toolkit](http://aif360.mybluemix.net/) from IBM Research! [[Github page]](https://github.com/Trusted-AI/AIF360)
 * Our submission to the NeurIPS 2019 Workshop on Machine Learning with Guarantees was accepted!
