@@ -48,7 +48,7 @@ M. Hosseini, R. Islam, L. Marni, T. Mohsenin. 31st IEEE International System-on-
 R. Islam, W. D. Hairston, T. Oates, T. Mohsenin. IEEE Signal Processing in Medicine and Biology Symposium (SPMB), 2017.<br>
 [[PDF]](https://www.isip.piconepress.com/conferences/ieee_spmb/2017/papers/p01_18.pdf)
 
-* **A Scalable Fpga-based Accelerator for High-Throughput MCMC Algorithms**<br>
+* **A Scalable FPGA-based Accelerator for High-Throughput MCMC Algorithms**<br>
 M. Hosseini, R. Islam, A. Kulkarni, T. Mohsenin.  IEEE 25th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2017.<br>
 [[PDF]](http://eehpc.csee.umbc.edu/publications/pdf/2017/Morteza_FCCM_17.pdf)
 
