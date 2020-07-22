@@ -17,5 +17,17 @@ C. Wang, K. Wang, A. Bian, **R. Islam**, K. Keya, J. R. Foulds and S. Pan. Mid-A
 J. R. Foulds*, **R. Islam***, K. Keya*, S. Pan. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), 2020.<br>
 [[PDF]](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.48) [[Supplementary]](http://jfoulds.informationsystems.umbc.edu/papers/2020/SupplementarySDM20Foulds_BayesianModelingOfIntersectionalFairness.pdf) [[Arxiv preprint]](https://arxiv.org/abs/1811.07255)
 
+* **An Intersectional Definition of Fairness**<br>
+J. R. Foulds, R. Islam, K. Keya, and S. Pan. In 36th IEEE International Conference on Data Engineering (ICDE), 2020.<br>
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9101635) [[Arxiv long version]](https://arxiv.org/pdf/1807.08362.pdf)  [Code: DF metric implemented in the IBM Research AI Fairness 360 toolkit](http://aif360.mybluemix.net/) [AIF 360 Github page](https://github.com/Trusted-AI/AIF360) [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf) [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4)
+
+
+
+
+
+
+
+
+
 
 [\* denotes equal contribution]
