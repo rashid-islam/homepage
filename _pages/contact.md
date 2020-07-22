@@ -10,6 +10,6 @@ The Latent Lab <br>
 Room: ITE 457<br>
 Department of Information Systems<br>
 University of Maryland, Baltimore County (UMBC)<br>
-1000 Hilltop Circle
-Baltimore, MD 21250
+1000 Hilltop Circle<br>
+Baltimore, MD 21250<br>
 Email: islam.rashidul@umbc.edu
