@@ -14,7 +14,7 @@ C. Wang, K. Wang, A. Bian, R. Islam, K. Keya, J. R. Foulds and S. Pan. Mid-Atlan
 [[PDF]](http://jfoulds.informationsystems.umbc.edu/papers/2020/Wang%20(2020)%20-%20A%20User%20Study%20on%20a%20De-biased%20Career%20Recommender%20System%20(MASC-SLL_2020).pdf)
 
 * **Bayesian Modeling of Intersectional Fairness: The Variance of Bias**<br>
-J. R. Foulds*, R. Islam*, K. Keya*, S. Pan. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), 2020.<br>
+J. R. Foulds\*, R. Islam\*, K. Keya\*, S. Pan. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), 2020.<br>
 [[PDF]](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.48) [[Supplementary]](http://jfoulds.informationsystems.umbc.edu/papers/2020/SupplementarySDM20Foulds_BayesianModelingOfIntersectionalFairness.pdf) [[Arxiv preprint]](https://arxiv.org/abs/1811.07255)
 
 * **An Intersectional Definition of Fairness**<br>
