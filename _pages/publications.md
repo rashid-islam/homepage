@@ -26,6 +26,13 @@ J. R. Foulds, R. Islam, K. Keya, and S. Pan. In 36th IEEE International Conferen
 J. R. Foulds, R. Islam, K. Keya, and S. Pan. In NeurIPS 2019 Workshop on Machine Learning with Guarantees, 2019.<br>
 [[PDF]](http://jfoulds.informationsystems.umbc.edu/papers/2019/Foulds%20(2019)%20-%20DifferentialFairness_NeurIPS_MLWG.pdf) [[Code]](https://github.com/rashid-islam/Differential_Fairness) [[Poster]](https://drive.google.com/file/d/1hZMrqRnXrZNyVIbyjDmNV9t8aruHDF8v/view)
 
+* **Mitigating demographic biases in social media-based recommender systems**<br>
+R. Islam, K. Keya, S. Pan, and J. R. Foulds. The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) Social Impact Track (extended abstract), 2019.<br>
+[[PDF]](https://www.kdd.org/kdd2019/docs/Islam_Keya_Pan_Foulds_KDDsocialImpactTrack.pdf)
+
+* **Scalable collapsed inference for high-dimensional topic models**<br>
+R. Islam and J. R. Foulds. Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019.<br>
+[[PDF]](https://www.aclweb.org/anthology/N19-1291/) [[Code]](https://github.com/rashid-islam/SparseSCVB0)
 
 
 
