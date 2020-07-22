@@ -25,5 +25,5 @@ My research interests lie in the general area of machine learning and artificial
 * Reviewer: ICML 2020.
 
 # Honors and Awards
-* **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [NAACL 2019](https://naacl.org/naacl-hlt-2019/). 
+* **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)](https://naacl.org/naacl-hlt-2019/). 
 * **NST Fellowship 2014** for M.S. thesis from Ministry of Science and Technology, Bangladesh
