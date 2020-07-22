@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # 2021
-* **Fair Heterogeneous Networkembeddings**<br>
+* **Fair Heterogeneous Network Embeddings**<br>
 Z. Zeng, **R. Islam**, K. Keya, J. Foulds, Y. Song, and S. Pan. Proceedings of the 15th International AAAI Conference on Web and SocialMedia (ICWSM) (accepted, in press), 2021.
 
 # 2020
