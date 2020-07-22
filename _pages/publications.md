@@ -34,7 +34,10 @@ R. Islam, K. Keya, S. Pan, and J. R. Foulds. The 25th ACM SIGKDD Conference on K
 R. Islam and J. R. Foulds. Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019.<br>
 [[PDF]](https://www.aclweb.org/anthology/N19-1291/) [[Code]](https://github.com/rashid-islam/SparseSCVB0)
 
-
+# 2018
+* **Towards a highly efficient online inference algorithm for latent Dirichlet allocation**<br>
+R. Islam and J. R. Foulds. Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL), 2018.<br>
+[[PDF]](http://jfoulds.informationsystems.umbc.edu/papers/2018/Islam2018MASC-SLL_Towards.pdf)
 
 
 
