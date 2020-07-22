@@ -17,12 +17,14 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
+* Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4).
+* Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 * Code for calculating our differential fairness metric is now available in the [AI Fairness 360 toolkit](http://aif360.mybluemix.net/) from IBM Research! [[Github page]](https://github.com/Trusted-AI/AIF360)
 * Our submission to the NeurIPS 2019 Workshop on Machine Learning with Guarantees was accepted!
 * Our submission to the [KDD 2019 Social Impact Track](https://www.kdd.org/kdd2019/social-impact), on mitigating bias in social-media based recommender systems, was accepted for oral presentation!
 * Attended [NAACL 2019](https://naacl.org/naacl-hlt-2019/), Minneapolis MN on June 3 – June 5, 2019.
 * I have accepted an intern position at [MathWorks Inc.](https://www.mathworks.com/), beginning Summer 2019. 
-* My paper titled **"Scalable collapsed inference for high-dimensional topic models"** to scale up topic models to 10,000 topics with a single machine, was accepted at [2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)]!
+* My paper titled **"Scalable collapsed inference for high-dimensional topic models"** to scale up topic models to 10,000 topics with a single machine, was accepted at [2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)](https://naacl.org/naacl-hlt-2019/)!
 * My extended abstact on stochastic topic model was accepted at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2018)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=75264&copyownerid=3228).
 * Joined in the [Foulds Research Group](http://jfoulds.informationsystems.umbc.edu/research_group.html) on Spring 2018 as a graduate research assistant
 
