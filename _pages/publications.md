@@ -15,7 +15,7 @@ C. Wang, K. Wang, A. Bian, **R. Islam**, K. Keya, J. R. Foulds and S. Pan. Mid-A
 
 * **Bayesian Modeling of Intersectional Fairness: The Variance of Bias**<br>
 J. R. Foulds*, **R. Islam***, K. Keya*, S. Pan. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), 2020.<br>
-[[PDF]](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.48)
+[[PDF]](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.48) [[Supplementary]](http://jfoulds.informationsystems.umbc.edu/papers/2020/SupplementarySDM20Foulds_BayesianModelingOfIntersectionalFairness.pdf) [[Arxiv preprint]](https://arxiv.org/abs/1811.07255)
 
 
 [\* denotes equal contribution]
