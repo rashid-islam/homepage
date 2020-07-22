@@ -19,7 +19,7 @@ J. R. Foulds*, **R. Islam***, K. Keya*, S. Pan. Proceedings of the 2020 SIAM Int
 
 * **An Intersectional Definition of Fairness**<br>
 J. R. Foulds, R. Islam, K. Keya, and S. Pan. In 36th IEEE International Conference on Data Engineering (ICDE), 2020.<br>
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/9101635) [[Arxiv long version]](https://arxiv.org/pdf/1807.08362.pdf)  [Code: DF metric implemented in the IBM Research AI Fairness 360 toolkit](http://aif360.mybluemix.net/) [AIF 360 Github page](https://github.com/Trusted-AI/AIF360) [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf) [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9101635) [[Arxiv long version]](https://arxiv.org/pdf/1807.08362.pdf)  [[Code: DF metric implemented in the IBM Research AI Fairness 360 toolkit]](http://aif360.mybluemix.net/) [[AIF 360 Github page]](https://github.com/Trusted-AI/AIF360) [[Slides]](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf) [[Talk Video]](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4)
 
 
 
