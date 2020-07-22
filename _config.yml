@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rashid"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rashidul Islam"
 description              : &description "Ph.D. Student, Information Systems Department, University of Maryland, Baltimore County (UMBC)"
