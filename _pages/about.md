@@ -29,7 +29,7 @@ My research interests lie in the general area of machine learning and artificial
 * Attended [NAACL 2019](https://naacl.org/naacl-hlt-2019/), Minneapolis MN on June 3 – June 5, 2019.
 * I have accepted an intern position at [MathWorks Inc.](https://www.mathworks.com/), beginning Summer 2019. 
 * My paper, **"Scalable collapsed inference for high-dimensional topic models"** to scale up topic models to 10,000 topics with a single machine, was accepted at [2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)](https://naacl.org/naacl-hlt-2019/)!
-* My extended abstact on stochastic topic model was accepted at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2018)](http://www.mascsll.org/).
+* My extended abstact paper on stochastic topic model was accepted at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2018)](http://www.mascsll.org/).
 * Joined in the [Foulds Research Group](http://jfoulds.informationsystems.umbc.edu/research_group.html) on Spring 2018 as a graduate research assistant
 
 # Academic Services
