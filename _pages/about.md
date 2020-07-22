@@ -17,7 +17,7 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
-* Our paper, **Fair Heterogeneous Network Embeddings**, was accepted at [15TH INTERNATIONAL CONFERENCE ON WEB AND SOCIAL MEDIA (ICWSM 2021)](https://www.icwsm.org/2020/index.html)
+* Our paper, **Fair Heterogeneous Network Embeddings**, was accepted at [15th International Conference on Web and Social Media (ICWSM 2021)](https://www.icwsm.org/2020/index.html).
 * Our extended abstract paper on the user study for fair recommender systems was accepted at [8th Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2020)](http://www.mascsll.org/). 
 * Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4) and [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf).
 * Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
