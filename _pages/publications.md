@@ -5,10 +5,17 @@ author_profile: true
 ---
 
 # 2021
+* **Equitable Allocation of Healthcare Resources with Fair Survival Models**<br>
+K. Keya, R. Islam, S. Pan, I. Stockwell and J. R. Foulds. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM) (accepted, in press), 2021.
+
 * **Fair Heterogeneous Network Embeddings**<br>
 Z. Zeng, R. Islam, K. Keya, J. Foulds, Y. Song, and S. Pan. Proceedings of the 15th International AAAI Conference on Web and SocialMedia (ICWSM) (accepted, in press), 2021.
 
 # 2020
+* **Equitable Allocation of Healthcare Resources with Fair Cox Models**<br>
+K. Keya, R. Islam, S. Pan, I. Stockwell and J. R. Foulds. AAAI Fall Symposium on AI in Government and Public Sector (AAAI FSS-20), 2020.<br>
+[[PDF]](https://arxiv.org/pdf/2010.06820.pdf)
+
 * **A User Study on a De-biased Career Recommender System**<br>
 C. Wang, K. Wang, A. Bian, R. Islam, K. Keya, J. R. Foulds and S. Pan. Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL), 2020.<br>
 [[PDF]](http://jfoulds.informationsystems.umbc.edu/papers/2020/Wang%20(2020)%20-%20A%20User%20Study%20on%20a%20De-biased%20Career%20Recommender%20System%20(MASC-SLL_2020).pdf)
