@@ -18,6 +18,7 @@ My research interests lie in the general area of machine learning and artificial
 
 # Recent News
 * Our paper was accepted at [SIAM International Conference on Data Mining (SDM) 2021](https://www.siam.org/conferences/cm/conference/sdm21). The paper is called "Equitable Allocation of Healthcare Resources with Fair Survival Models." Almost all of the reviewers rated the paper as "top 80% of accepted papers at the conference." Congrats to Kamrun Keya.  
+* December 2020: Awarded Master of Science in Information Systems from UMBC.
 * Our paper on equitable allocation of healthcare resources with fair Cox models was accepted at [AAAI/FSS-2020 Artificial Intelligence in Government and Public Sector track](https://aaai.org/Symposia/Fall/fss20symposia.php#fs02). Congrats to Kamrun Keya. 
 * Our paper, **Fair Heterogeneous Network Embeddings**, was accepted at [15th International Conference on Web and Social Media (ICWSM 2021)](https://www.icwsm.org/2020/index.html).
 * Our extended abstract paper on the user study for fair recommender systems was accepted at [8th Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2020)](http://www.mascsll.org/). 
