@@ -14,7 +14,7 @@ I am a Ph.D. student in the [Information Systems Department](https://information
 I was an intern in the wavelet development team at [MathWorks Inc.](https://www.mathworks.com/), Natick, MA for Summer, 2019. Prior to joining UMBC as a graduate student, I worked in [Huawei Technologies (Bangladesh) Ltd.](https://www.huawei.com/en/corporate-information/) as a Core Network Engineer. Before that, I received my Master’s Degree in Electrical Engineering at [University of Dhaka, Bangladesh](https://www.du.ac.bd/), supervised by Prof. [Zahid H. Mahmood](https://scholar.google.com/citations?user=gnu1OzUAAAAJ&hl=en).
 
 # Research Interests
-My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
+My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness and Ethics. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
 * Our paper was accepted at [SIAM International Conference on Data Mining (SDM) 2021](https://www.siam.org/conferences/cm/conference/sdm21). The paper is called **Equitable Allocation of Healthcare Resources with Fair Survival Models**. Almost all of the reviewers rated the paper as "top 80% of accepted papers at the conference." Congrats to Kamrun Keya.  
