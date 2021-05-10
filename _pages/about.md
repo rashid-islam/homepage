@@ -35,7 +35,7 @@ My research interests lie in the general area of machine learning and artificial
 * Reviewer: ICML 2020, ICTAI 2020.
 
 # Honors and Awards
-* **Best Poster Award** in **PHD Completed Research** category at **IS Poster Day, UMBC**
+* **Best Poster Award** in **PHD Completed Research** category at **IS Poster Day, UMBC, 2021**
 * **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/)
 * **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [NAACL 2019](https://naacl.org/naacl-hlt-2019/). 
 * **NST Fellowship 2014** for M.S. thesis from Ministry of Science and Technology, Bangladesh
