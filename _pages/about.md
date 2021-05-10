@@ -17,9 +17,11 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness and Ethics. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
+* I've won **Best Poster Award** in **PHD Completed Research** category on May 7, 2021. I would like to thank the faculty review panel of IS Poster Day.   
 * Successfully defended my Ph.D. proposal on May 5, 2021. My sincere thanks to the advisory committee: Dr. James Foulds (Chair/Advisor), Dr. Zhiyuan Chen, Dr. Shimei Pan, Dr. Nirmalya Roy, Dr. Md Osman Gani, and Dr. Edward Raff.
-* Presented our work **Debiasing Career Recommendations with Neural Fair Collaborative Filtering** at IS Poster Day, UMBC on April 30, 2021.
+* Presented our work, **Debiasing Career Recommendations with Neural Fair Collaborative Filtering**, at IS Poster Day, UMBC on April 30, 2021.
 * Our AIES 2021 paper, "Can We Obtain Fairness For Free?," was accepted.
+* I have been selected as a recipient of a **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/). This award will support the cost of my registration.
 * Our paper **Debiasing Career Recommendations with Neural Fair Collaborative Filtering** has been accepted to [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/).
 * Our paper was accepted at [SIAM International Conference on Data Mining (SDM) 2021](https://www.siam.org/conferences/cm/conference/sdm21). The paper is called **Equitable Allocation of Healthcare Resources with Fair Survival Models**. Almost all of the reviewers rated the paper as "top 80% of accepted papers at the conference." Congrats to Kamrun Keya.  
 * December 2020: Awarded Master of Science in Information Systems from UMBC.
@@ -33,7 +35,9 @@ My research interests lie in the general area of machine learning and artificial
 * Reviewer: ICML 2020, ICTAI 2020.
 
 # Honors and Awards
-* **GSA Professional Development Grant** and **IS Dept. Travel Grant** to participate [NAACL 2019](https://naacl.org/naacl-hlt-2019/). 
+* **Best Poster Award** in **PHD Completed Research** category at **IS Poster Day, UMBC**
+* **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/)
+* **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [NAACL 2019](https://naacl.org/naacl-hlt-2019/). 
 * **NST Fellowship 2014** for M.S. thesis from Ministry of Science and Technology, Bangladesh
 
 # Older News
