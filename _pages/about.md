@@ -18,7 +18,7 @@ My research interests lie in the general area of machine learning and artificial
 
 # Recent News
 * I've won **Best Poster Award** in **PHD Completed Research** category on May 7, 2021. I would like to thank the faculty review panel of IS Poster Day.   
-* Successfully defended my Ph.D. proposal on May 5, 2021. My sincere thanks to the advisory committee: Dr. James Foulds (Chair/Advisor), Dr. Zhiyuan Chen, Dr. Shimei Pan, Dr. Nirmalya Roy, Dr. Md Osman Gani, and Dr. Edward Raff.
+* Successfully defended my Ph.D. proposal on May 5, 2021. My sincere thanks to the advisory committee: [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/) (Chair/Advisor), Dr. Zhiyuan Chen, Dr. Shimei Pan, Dr. Nirmalya Roy, Dr. Md Osman Gani, and Dr. Edward Raff.
 * Presented our work, **Debiasing Career Recommendations with Neural Fair Collaborative Filtering**, at IS Poster Day, UMBC on April 30, 2021.
 * Our AIES 2021 paper, "Can We Obtain Fairness For Free?," was accepted.
 * I have been selected as a recipient of a **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/). This award will support the cost of my registration.
