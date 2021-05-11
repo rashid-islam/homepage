@@ -7,11 +7,13 @@ author_profile: true
 # 2021
 * **Debiasing career recommendations with neural fair collaborative filtering.**<br>
 R. Islam, K. Keya, Z. Zeng, S. Pan, and J. R. Foulds. Proceedings of The Web Conference (formerly known as WWW) (accepted, in press), 2021.
+[[PDF]]() 
 
 * **Equitable Allocation of Healthcare Resources with Fair Survival Models**<br>
-K. Keya, R. Islam, S. Pan, I. Stockwell and J. R. Foulds. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM) (accepted, in press), 2021.
+K. Keya, R. Islam, S. Pan, I. Stockwell and J. R. Foulds. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), 2021.
+[[PDF]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.22) 
 
-* **Fair Heterogeneous Network Embeddings**<br>
+* **Fair Representation Learning for Heterogeneous Information Networks**<br>
 Z. Zeng, R. Islam, K. Keya, J. Foulds, Y. Song, and S. Pan. Proceedings of the 15th International AAAI Conference on Web and SocialMedia (ICWSM) (accepted, in press), 2021.
 
 # 2020
