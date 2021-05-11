@@ -7,10 +7,8 @@ author_profile: true
 # 2021
 * **Debiasing career recommendations with neural fair collaborative filtering.**<br>
 R. Islam, K. Keya, Z. Zeng, S. Pan, and J. R. Foulds. Proceedings of The Web Conference (formerly known as WWW), 2021.
-<!-- layout: archive -->
 [[PDF]](https://github.com/rashid-islam/homepage/blob/master/files/papers/Debiasing_career_recommend_with_NFCF.pdf) 
-
-<!-- <embed src="https://github.com/rashid-islam/homepage/blob/master/files/papers/Debiasing_career_recommend_with_NFCF.pdf" width="650" height="1800" type='application/pdf'> -->
+<a href="https://github.com/rashid-islam/homepage/blob/master/files/papers/Debiasing_career_recommend_with_NFCF.pdf" target="_blank">PDF.</a>
 
 * **Equitable Allocation of Healthcare Resources with Fair Survival Models**<br>
 K. Keya, R. Islam, S. Pan, I. Stockwell and J. R. Foulds. Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), 2021.
