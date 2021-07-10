@@ -32,14 +32,15 @@ My research interests lie in the general area of machine learning and artificial
 * Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4) and [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf).
 * Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 
-# Academic Services
-* Reviewer: ICML 2020, ICTAI 2020.
-
 # Honors and Awards
+* **2021 PhD Student Completed Research Award (1st Place)** from the Department of Information Systems, UMBC
 * **Best Poster Award** in **PHD Completed Research** category at **IS Poster Day, UMBC, 2021**
 * **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/)
-* **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [NAACL 2019](https://naacl.org/naacl-hlt-2019/). 
+* **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [NAACL 2019](https://naacl.org/naacl-hlt-2019/) 
 * **NST Fellowship 2014** for M.S. thesis from Ministry of Science and Technology, Bangladesh
+
+# Academic Services
+* Reviewer: NeurIPS 2021, ICML 2020, ICTAI 2020.
 
 # Older News
 * Attended [The Promise and the Risk of the AI Revolution Conference](https://www.usni.org/events/promise-and-risk-ai-revolution), U.S. Naval Academy, MD on October, 2019. 
