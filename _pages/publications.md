@@ -18,7 +18,8 @@ K. Keya, R. Islam, S. Pan, I. Stockwell and J. R. Foulds. Proceedings of the 202
 [[PDF]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.22) 
 
 * **Fair Representation Learning for Heterogeneous Information Networks**<br>
-Z. Zeng, R. Islam, K. Keya, J. Foulds, Y. Song, and S. Pan. Proceedings of the 15th International AAAI Conference on Web and SocialMedia (ICWSM) (accepted, in press), 2021.
+Z. Zeng, R. Islam, K. Keya, J. Foulds, Y. Song, and S. Pan. Proceedings of the 15th International AAAI Conference on Web and SocialMedia (ICWSM), 2021.<br>
+[[PDF]](http://www.cse.ust.hk/~zzengae/data/icwsm21-paper.pdf)
 
 # 2020
 * **Equitable Allocation of Healthcare Resources with Fair Cox Models**<br>
