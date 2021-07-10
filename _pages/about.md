@@ -17,6 +17,7 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests lie in the general area of machine learning and artificial intelligence, particularly in the area of AI Fairness and Ethics. My work is focused on building socially conscious and fair algorithms for machine learning, deep learning, recommender systems and natural language processing. 
 
 # Recent News
+* I've won **2021 PhD Student Completed Research Award (1st Place)** from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
 * I've won **Best Poster Award** in **PHD Completed Research** category on May 7, 2021. I would like to thank the faculty review panel of IS Poster Day.   
 * Successfully defended my Ph.D. proposal on May 5, 2021. My sincere thanks to the advisory committee: [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/) (Chair/Advisor), Dr. Zhiyuan Chen, Dr. Shimei Pan, Dr. Nirmalya Roy, Dr. Md Osman Gani, and Dr. Edward Raff.
 * Presented our work, **Debiasing Career Recommendations with Neural Fair Collaborative Filtering**, at IS Poster Day, UMBC on April 30, 2021.
