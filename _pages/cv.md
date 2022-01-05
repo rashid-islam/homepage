@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://rashid-islam.github.io/homepage/files/CV-Rashidul.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://rashid-islam.github.io/homepage/files/CV-Rashidul-Islam.pdf)
 
 <!-- <embed src="https://rashid-islam.github.io/homepage/files/CV-Rashidul.pdf" width="650" height="1800" type='application/pdf'> -->
