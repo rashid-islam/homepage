@@ -18,6 +18,7 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests are in the broader field of artificial intelligence (AI) and machine learning (ML), particularly in the area of AI/ML Fairness and Ethics. It is now well understood that AI/ML systems frequently behave unfairly and discriminatorily toward specific demographic groups when trained on data without the proper attention. Various AI-automated tasks may suffer negative societal effects as a result of this phenomena. My research is focused on building socially responsible machine learning methods by modeling, measuring, and correcting unfairness or implicit bias.
 
 # Recent News
+* I have successfully defended my Ph.D. dissertation, titled **Intersectional Fairness in Machine Learning: Measurements, Algorithms, and Applications**. What an incredible journey it has been! I would like to thank my advisor, Dr. Foulds, and other committee members.
 * Our paper **Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation** was accepted at [Intelligent User Interfaces (IUI), 2022](https://iui.acm.org/2022/). 
 * I've won [**2022 PhD Student Research Award**]([https://my3.my.umbc.edu/groups/infosystems/posts/101957](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)) again from the Department of Information Systems, UMBC with research topic on fairness for free.
 * I have accepted a **Staff Research Scientist position in Trustworthy AI team at Visa Research**, beginning August 2022!
