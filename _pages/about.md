@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # About Me
+I am a staff research scientist in Trustworthy AI team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). 
 I am a Ph.D. candidate in the [Information Systems Department](https://informationsystems.umbc.edu/) at [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/), advised by [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/). I am also working as a research assistant in the [Foulds Research Group](http://jfoulds.informationsystems.umbc.edu/research_group.html) - The Latent Lab.    
 
 I was an intern in the wavelet development team at [MathWorks Inc.](https://www.mathworks.com/), Natick, MA for Summer, 2019. Prior to joining UMBC as a graduate student, I worked in [Huawei Technologies (Bangladesh) Ltd.](https://www.huawei.com/en/corporate-information/) as a Core Network Engineer. Before that, I received my Master’s Degree in Electrical Engineering at [University of Dhaka, Bangladesh](https://www.du.ac.bd/), supervised by Prof. [Zahid H. Mahmood](https://scholar.google.com/citations?user=gnu1OzUAAAAJ&hl=en).
