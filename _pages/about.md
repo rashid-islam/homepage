@@ -18,6 +18,7 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests are in the broader field of artificial intelligence (AI) and machine learning (ML), particularly in the area of AI/ML Fairness and Ethics. It is now well understood that AI/ML systems frequently behave unfairly and discriminatorily toward specific demographic groups when trained on data without the proper attention. Various AI-automated tasks may suffer negative societal effects as a result of this phenomena. My research is focused on building socially responsible machine learning methods by modeling, measuring, and correcting unfairness or implicit bias.
 
 # Recent News
+* I've won [**2022 PhD Student Research Award**]([https://my3.my.umbc.edu/groups/infosystems/posts/101957](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)) again from the Department of Information Systems, UMBC with research topic on fairness for free.
 * I have accepted a **staff research scientist position in Trustworthy AI team at Visa Research**, beginning August 2022!
 * I've won [**2021 PhD Student Research Award**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
 * I've won [**Best Poster Award**](https://informationsystems.umbc.edu/home/research/is-poster-day/) in **PHD Completed Research** category on May 7, 2021. I would like to thank the faculty review panel of IS Poster Day.   
@@ -35,6 +36,7 @@ My research interests are in the broader field of artificial intelligence (AI) a
 * Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 
 # Honors and Awards
+* [**2022 PhD Student Research Award**]([https://my3.my.umbc.edu/groups/infosystems/posts/101957](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)) from the Department of Information Systems, UMBC
 * [**2021 PhD Student Research Award**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC
 * [**Best Poster Award**](https://informationsystems.umbc.edu/home/research/is-poster-day/) in **PHD Completed Research** category at **IS Poster Day, UMBC, 2021**
 * **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/)
