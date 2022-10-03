@@ -5,11 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 Rashidul Islam<br>
-Graduate Research Assistant<br>
-The Latent Lab <br>
-Room: ITE 457<br>
-Department of Information Systems<br>
-University of Maryland, Baltimore County (UMBC)<br>
-1000 Hilltop Circle<br>
-Baltimore, MD 21250<br>
-Email: islam.rashidul@umbc.edu
+Staff Research Scientist<br>
+Trustworthy AI team<br>
+Visa Research, Visa USA Inc.<br>
+Email: raislam@visa.com; islam.rashidul@umbc.edu
