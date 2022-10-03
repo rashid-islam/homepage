@@ -28,12 +28,6 @@ My research interests are in the broader field of artificial intelligence (AI) a
 * I have been selected as a recipient of a **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/). This award will support the cost of my registration.
 * Our paper **Debiasing Career Recommendations with Neural Fair Collaborative Filtering** has been accepted to [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/).
 * Our paper was accepted at [SIAM International Conference on Data Mining (SDM) 2021](https://www.siam.org/conferences/cm/conference/sdm21). The paper is called **Equitable Allocation of Healthcare Resources with Fair Survival Models**. Almost all of the reviewers rated the paper as "top 80% of accepted papers at the conference." Congrats to Kamrun Keya.  
-* December 2020: Awarded Master of Science in Information Systems from UMBC.
-* Our paper on equitable allocation of healthcare resources with fair Cox models was accepted at [AAAI/FSS-2020 Artificial Intelligence in Government and Public Sector track](https://aaai.org/Symposia/Fall/fss20symposia.php#fs02). Congrats to Kamrun Keya. 
-* Our paper, **Fair Heterogeneous Network Embeddings**, was accepted at [15th International Conference on Web and Social Media (ICWSM 2021)](https://www.icwsm.org/2020/index.html).
-* Our extended abstract paper on the user study for fair recommender systems was accepted at [8th Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2020)](http://www.mascsll.org/). 
-* Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4) and [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf).
-* Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 
 # Honors and Awards
 * [**2022 PhD Student Research Award**]([https://my3.my.umbc.edu/groups/infosystems/posts/101957](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)) from the Department of Information Systems, UMBC
@@ -47,6 +41,12 @@ My research interests are in the broader field of artificial intelligence (AI) a
 * Reviewer: NeurIPS 2021, ICML 2020, ICTAI 2020.
 
 # Older News
+* December 2020: Awarded Master of Science in Information Systems from UMBC.
+* Our paper on equitable allocation of healthcare resources with fair Cox models was accepted at [AAAI/FSS-2020 Artificial Intelligence in Government and Public Sector track](https://aaai.org/Symposia/Fall/fss20symposia.php#fs02). Congrats to Kamrun Keya. 
+* Our paper, **Fair Heterogeneous Network Embeddings**, was accepted at [15th International Conference on Web and Social Media (ICWSM 2021)](https://www.icwsm.org/2020/index.html).
+* Our extended abstract paper on the user study for fair recommender systems was accepted at [8th Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2020)](http://www.mascsll.org/). 
+* Our differential fairness paper titled **An Intersectional Definition of Fairness** was accepted at [36th IEEE International Conference on Data Engineering (ICDE 2020)](https://www.utdallas.edu/icde/). Here is the link to the Dr. Foulds' [Talk Video](http://jfoulds.informationsystems.umbc.edu/videos/2020/700_ICDE_Foulds.mp4) and [Slides](http://jfoulds.informationsystems.umbc.edu/slides/2020/Foulds_April_2020_ICDE_Differential_Fairness.pdf).
+* Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 * Attended [The Promise and the Risk of the AI Revolution Conference](https://www.usni.org/events/promise-and-risk-ai-revolution), U.S. Naval Academy, MD on October, 2019. 
 * Attended [37th Annual NAJIS Conference 2019](https://www.najis.org/) on October, 2019.
 * Code for calculating our differential fairness metric is now available in the [AI Fairness 360 toolkit](http://aif360.mybluemix.net/) from IBM Research! [[Github page]](https://github.com/Trusted-AI/AIF360)
