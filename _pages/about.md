@@ -19,7 +19,7 @@ My research interests are in the broader field of artificial intelligence (AI) a
 
 # Recent News
 * I have successfully defended my Ph.D. dissertation, titled **Intersectional Fairness in Machine Learning: Measurements, Algorithms, and Applications**. What an incredible journey it has been! I would like to thank my advisor, Dr. Foulds, and other committee members.
-* Our paper **Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation** was accepted at [Intelligent User Interfaces (IUI), 2022](https://iui.acm.org/2022/). 
+* Our paper **Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation** was accepted at [Intelligent User Interfaces (IUI), 2022](https://iui.acm.org/2022/). Congrats to Dr. Pan and her group! 
 * I've won [**2022 PhD Student Research Award**]([https://my3.my.umbc.edu/groups/infosystems/posts/101957](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)) again from the Department of Information Systems, UMBC with research topic on fairness for free.
 * I have accepted a **Staff Research Scientist position in Trustworthy AI team at Visa Research**, beginning August 2022!
 * I've won [**2021 PhD Student Research Award**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
