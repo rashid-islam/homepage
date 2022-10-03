@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am a staff research scientist in Trustworthy AI team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). 
+I am a Staff Research Scientist in Trustworthy AI team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). 
 I received my Ph.D. in [Information Systems](https://informationsystems.umbc.edu/) at [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/) in 2022. I was also awarded M.Sc. from the same department in 2020. My doctorate degree was advised by the amazing mentor [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/). I also worked as a research assistant in his [Latent Lab](http://jfoulds.informationsystems.umbc.edu/research_group.html) at UMBC.    
 
 I was an intern in the wavelet development team at [MathWorks Inc.](https://www.mathworks.com/), Natick, MA for Summer, 2019. Prior to joining UMBC as a graduate student, I worked in [Huawei Technologies (Bangladesh) Ltd.](https://www.huawei.com/en/corporate-information/) as a Core Network Engineer. Before that, I received my M.Sc. in Electrical Engineering, and B.Sc. in Applied Physics, Electronics and Communication Engineering at [University of Dhaka, Bangladesh](https://www.du.ac.bd/).
@@ -18,8 +18,9 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests are in the broader field of artificial intelligence (AI) and machine learning (ML), particularly in the area of AI/ML Fairness and Ethics. It is now well understood that AI/ML systems frequently behave unfairly and discriminatorily toward specific demographic groups when trained on data without the proper attention. Various AI-automated tasks may suffer negative societal effects as a result of this phenomena. My research is focused on building socially responsible machine learning methods by modeling, measuring, and correcting unfairness or implicit bias.
 
 # Recent News
+* Our paper **Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation** was accepted at [Intelligent User Interfaces (IUI), 2022](https://iui.acm.org/2022/). 
 * I've won [**2022 PhD Student Research Award**]([https://my3.my.umbc.edu/groups/infosystems/posts/101957](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)) again from the Department of Information Systems, UMBC with research topic on fairness for free.
-* I have accepted a **staff research scientist position in Trustworthy AI team at Visa Research**, beginning August 2022!
+* I have accepted a **Staff Research Scientist position in Trustworthy AI team at Visa Research**, beginning August 2022!
 * I've won [**2021 PhD Student Research Award**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
 * I've won [**Best Poster Award**](https://informationsystems.umbc.edu/home/research/is-poster-day/) in **PHD Completed Research** category on May 7, 2021. I would like to thank the faculty review panel of IS Poster Day.   
 * Successfully defended my Ph.D. proposal on May 5, 2021. My sincere thanks to the advisory committee: [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/) (Chair/Advisor), Dr. Zhiyuan Chen, Dr. Shimei Pan, Dr. Nirmalya Roy, Dr. Md Osman Gani, and Dr. Edward Raff.
