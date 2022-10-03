@@ -15,7 +15,7 @@ I received my Ph.D. in [Information Systems](https://informationsystems.umbc.edu
 I was an intern in the wavelet development team at [MathWorks Inc.](https://www.mathworks.com/), Natick, MA for Summer, 2019. Prior to joining UMBC as a graduate student, I worked in [Huawei Technologies (Bangladesh) Ltd.](https://www.huawei.com/en/corporate-information/) as a Core Network Engineer. Before that, I received my M.Sc. in Electrical Engineering, and B.Sc. in Applied Physics, Electronics and Communication Engineering at [University of Dhaka, Bangladesh](https://www.du.ac.bd/).
 
 # Research Interests
-My research interests lie in the general area of artificial intelligence (AI) / machine learning (ML), particularly in the area of AI/ML Fairness and Ethics. It is now well understood that AI/ML systems, trained on data without due care, often exhibit unfair and discriminatory behavior against certain demographic groups. This phenomenon can have harmful consequences in a variety of AI-automated tasks including college admissions, financial and housing approvals, bail and sentencing decisions, job hiring, and the prioritization of healthcare services. My research is focused on building socially conscious statistical methods for modeling, measuring, and correcting unfairness or implicit bias in machine learning algorithms.
+My research interests are in the broader field of artificial intelligence (AI) and machine learning (ML), particularly in the area of AI/ML Fairness and Ethics. It is now well understood that AI/ML systems frequently behave unfairly and discriminatorily toward specific demographic groups when trained on data without the proper attention. Various AI-automated tasks may suffer negative societal effects as a result of this phenomena. My research is focused on building socially responsible machine learning methods by modeling, measuring, and correcting unfairness or implicit bias.
 
 # Recent News
 * I've won [**2021 PhD Student Research Award (1st Place)**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
@@ -34,7 +34,7 @@ My research interests lie in the general area of artificial intelligence (AI) / 
 * Our paper titled **Bayesian Modeling of Intersectional Fairness: The Variance of Bias** was accepted at [SIAM International Conference on Data Mining (SDM 2020)](https://www.siam.org/conferences/cm/conference/sdm20).
 
 # Honors and Awards
-* [**2021 PhD Student Research Award (1st Place)**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC
+* [**2021 PhD Student Research Award**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC
 * [**Best Poster Award**](https://informationsystems.umbc.edu/home/research/is-poster-day/) in **PHD Completed Research** category at **IS Poster Day, UMBC, 2021**
 * **Student Scholarship Award** to attend  [The Web Conference 2021 (formerly known as WWW)](https://www2021.thewebconf.org/)
 * **GSA Professional Development Grant** and **IS Dept. Travel Grant** to attend [NAACL 2019](https://naacl.org/naacl-hlt-2019/) 
