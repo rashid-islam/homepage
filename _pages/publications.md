@@ -3,6 +3,14 @@ title: "Publications (my [Google Scholar Profile](https://scholar.google.com/cit
 permalink: /publications/
 author_profile: true
 ---
+# 2022
+* **Fair Inference for Discrete Latent Variable Models**<br>
+R. Islam, S. Pan, and J. R. Foulds. Under submission, 2022.<br>
+[[PDF]](https://arxiv.org/pdf/2209.07044.pdf) 
+
+* **Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation**<br>
+C. Wang, K. Wang, A. Bian, R. Islam, K. Keya, J. Foulds and S. Pan. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI),2022.<br>
+[[PDF]](https://rashid-islam.github.io/homepage/files/papers/Do_Humans_Prefer_Debiased_AI_Algorithms_IUI-22-Paper.pdf)<!-- <embed src="https://rashid-islam.github.io/homepage/files/papers/Do_Humans_Prefer_Debiased_AI_Algorithms_IUI-22-Paper.pdf" width="650" height="1800" type='application/pdf'> 
 
 # 2021
 * **Can We Obtain Fairness for Free?**<br>
