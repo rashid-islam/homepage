@@ -10,7 +10,7 @@ R. Islam, S. Pan, and J. R. Foulds. Under submission, 2022.<br>
 
 * **Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation**<br>
 C. Wang, K. Wang, A. Bian, R. Islam, K. Keya, J. Foulds and S. Pan. Proceedings of ACM International Conference on Intelligent User Interfaces (IUI),2022.<br>
-[[PDF]](https://rashid-islam.github.io/homepage/files/papers/Do_Humans_Prefer_Debiased_AI_Algorithms_IUI-22-Paper.pdf)<!-- <embed src="https://rashid-islam.github.io/homepage/files/papers/Do_Humans_Prefer_Debiased_AI_Algorithms_IUI-22-Paper.pdf" width="650" height="1800" type='application/pdf'> 
+[[PDF]](https://rashid-islam.github.io/homepage/files/papers/Do_Humans_Prefer_Debiased_AI_Algorithms_IUI-22-Paper.pdf)<!-- <embed src="https://rashid-islam.github.io/homepage/files/papers/Do_Humans_Prefer_Debiased_AI_Algorithms_IUI-22-Paper.pdf" width="650" height="1800" type='application/pdf'> -->
 
 # 2021
 * **Can We Obtain Fairness for Free?**<br>
