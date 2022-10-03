@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rashidul Islam"
-description              : &description "Ph.D. Student, Information Systems Department, University of Maryland, Baltimore County (UMBC)"
+description              : &description "Staff Research Scientist, Trustworthy AI team, Visa Research"
 url                      : https://rashid-islam.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rashid-islam/homepage"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Rashidul Islam"
   avatar           : "Rashid_Photo3.jpg"
-  bio              : "Ph.D. Candidate,<br/>
-                      Department of Information Systems,<br/>
-                      UMBC"
-  location         : "Baltimore, Maryland, USA"
+  bio              : " Staff Research Scientist,<br/>
+                      Trustworthy AI team,<br/>
+                      Visa Research"
+  location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HpfLlrsAAAAJ&hl=en&authuser=1"
