@@ -18,7 +18,8 @@ I was an intern in the wavelet development team at [MathWorks Inc.](https://www.
 My research interests are in the broader field of artificial intelligence (AI) and machine learning (ML), particularly in the area of AI/ML Fairness and Ethics. It is now well understood that AI/ML systems frequently behave unfairly and discriminatorily toward specific demographic groups when trained on data without the proper attention. Various AI-automated tasks may suffer negative societal effects as a result of this phenomena. My research is focused on building socially responsible machine learning methods by modeling, measuring, and correcting unfairness or implicit bias.
 
 # Recent News
-* I've won [**2021 PhD Student Research Award (1st Place)**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
+* I have accepted a **staff research scientist position in Trustworthy AI team at Visa Research**, beginning August 2022!
+* I've won [**2021 PhD Student Research Award**](https://my3.my.umbc.edu/groups/infosystems/posts/101957) from the Department of Information Systems, UMBC with research topic Debiasing Career Recommendations with Neural Fair Collaborative Filtering.
 * I've won [**Best Poster Award**](https://informationsystems.umbc.edu/home/research/is-poster-day/) in **PHD Completed Research** category on May 7, 2021. I would like to thank the faculty review panel of IS Poster Day.   
 * Successfully defended my Ph.D. proposal on May 5, 2021. My sincere thanks to the advisory committee: [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/) (Chair/Advisor), Dr. Zhiyuan Chen, Dr. Shimei Pan, Dr. Nirmalya Roy, Dr. Md Osman Gani, and Dr. Edward Raff.
 * Presented our work, **Debiasing Career Recommendations with Neural Fair Collaborative Filtering**, at IS Poster Day, UMBC on April 30, 2021.
