@@ -3,6 +3,7 @@ title: "Publications (my [Google Scholar Profile](https://scholar.google.com/cit
 permalink: /publications/
 author_profile: true
 ---
+**This information is very out of date. For more recent publications, please see my [Google Scholar](https://scholar.google.com/citations?user=HpfLlrsAAAAJ&hl=en).**
 # 2022
 * **Fair Inference for Discrete Latent Variable Models**<br>
 R. Islam, S. Pan, and J. R. Foulds. Under submission, 2022.<br>
