@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 # About Me
-I am a Staff Research Scientist on the Trustworthy AI team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). 
-I received my Ph.D. in [Information Systems](https://informationsystems.umbc.edu/) at the [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/) in 2022, and my second M.Sc. from the same department in 2020. My doctoral studies were advised by my exceptional mentor [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/), with whom I also worked as a research assistant in his [Latent Lab](http://jfoulds.informationsystems.umbc.edu/research_group.html).
+I am a Staff Research Scientist on the Trustworthy AI team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). I received my Ph.D. in Information Systems at the University of Maryland, Baltimore County (UMBC) in 2022, and my second M.Sc. from the same department in 2020. My exceptional mentor, [Dr. James Foulds](http://jfoulds.informationsystems.umbc.edu/), advised my doctoral studies, with whom I also worked as a research assistant in his Latent Lab.
 
 In the summer of 2019, I interned with the signal processing team at [MathWorks Inc.](https://www.mathworks.com/), Natick, MA. Before joining UMBC as a graduate student, I worked as a Core Network Engineer at [Huawei Technologies (Bangladesh) Ltd.](https://www.huawei.com/en/corporate-information/). Earlier, I earned my M.Sc. in Electrical Engineering, and B.Sc. in Applied Physics, Electronics and Communication Engineering from the [University of Dhaka, Bangladesh](https://www.du.ac.bd/).
 
 # Research Interests
-My research interests focus on developing socially responsible machine learning methods to address fairness and ethical concerns in AI systems. I model, measure, and correct implicit bias, emphasizing fair learning algorithms without relying on protected demographic features. My recent work explores post-processing fairness techniques for deployed models, mitigating societal biases while addressing the challenges of expensive retraining and limited access to model parameters. I am expanding my research to build and fine-tune domain-specific large language models for the financial and payment industries, aiming to contribute to ethical AI while exploring innovative use cases in these domains.
+My research interests are primarily focused on the development and fine-tuning of large language models (LLMs) for a wide range of domain-specific applications. I aim to push the boundaries of what these models can achieve by exploring innovative use cases and enhancing their performance in specialized settings. While my focus is on LLMs, I continue to maintain a commitment to ethical AI practices, ensuring that the technologies I develop are both powerful and responsible.
 
 # Recent News
 **I haven't updated this in a while; please visit my [LinkedIn](https://www.linkedin.com/in/rashid-islam/) for the latest updates and news.**
